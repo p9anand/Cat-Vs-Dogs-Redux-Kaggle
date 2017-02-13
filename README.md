@@ -1,2 +1,2 @@
-# ImagePaintingUsingTensorflow
-It will read the images from a folder and then try to predict the color on a location for a given image.
+# Cat-Vs-Dogs-Redux-Kaggle
+This notebook is regarding a competition on Kaggle. <Kaggle href="http://www.quora.com/Adam-DAngelo">
